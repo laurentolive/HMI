@@ -1,0 +1,7 @@
+version: 1
+nodes:
+  - name: root
+    label: VE11D
+    readonly: false
+    objectTypes: []
+linkTypes: []
